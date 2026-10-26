@@ -1,9 +1,9 @@
-# ┌──────────────────────────────────────────────┐
-# │        B A P E R   R A S T A                 │
-# │  a full local copy of baperrasta.com         │
-# │  repo: https://github.com/eshitax/baperrasta │
-# │  open source by: Eshita Jahan                │
-# └──────────────────────────────────────────────┘
+ ┌──────────────────────────────────────────────┐
+ │        B A P E R   R A S T A                 │
+ │  a full local copy of baperrasta.com         │
+ │  repo: https://github.com/eshitax/baperrasta │
+ │  open source by: Eshita Jahan                │
+ └──────────────────────────────────────────────┘
 
 > a low-poly 3D Bengali driving game — rebuildable, self-hostable,
 > deploy anywhere: render / vercel / railway / any VPS.
